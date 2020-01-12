@@ -1,12 +1,16 @@
 # Title:
-Re-former
+Re-former (Forms in Ruby on Rails)
 
 ## Description:
-This is part of the Forms Project in The Odin Project’s Ruby on Rails Curriculum. Find it at http://www.theodinproject.com
+This project consist of build some forms, both using nearly-pure HTML and then graduating to using the helper methods that Rails provides.
 
-### Authors:
+### Contributors:
 [Asha](https://github.com/Ashah15)
 [Marvellous](https://github.com/MarvellousUbani)
 
 #### Languages:
 Rails && HTML
+
+
+
+
